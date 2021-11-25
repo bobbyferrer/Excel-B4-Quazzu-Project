@@ -48,3 +48,16 @@
 .section-podcast .podcast-btn {
   margin-top: 30px;
 }
+
+.main-header-inner {
+  background: url(../img/background.jpg);
+  min-height: 350px;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  
+}
+
+.main-header-inner .showcase {
+  padding-top: 50px;
+}
