@@ -61,3 +61,8 @@
 .main-header-inner .showcase {
   padding-top: 50px;
 }
+
+.btn-extend {
+  display: block;
+  width: 100%;
+}
